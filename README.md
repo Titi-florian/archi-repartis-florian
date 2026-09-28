@@ -13,3 +13,5 @@ Dépôt contenant les différentes implémentations pratiques du semestre (Socke
 1. Lancer le serveur :
    ```bash
    java socket.CalcServer
+
+   - `/rmi` : Séance 2 - Java RMI (Invocation de méthodes distantes et annuaire Registry).
