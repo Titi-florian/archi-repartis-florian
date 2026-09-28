@@ -1,0 +1,5 @@
+# IDE
+.vscode/
+
+# Java compiled files
+*.class
