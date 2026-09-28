@@ -8,4 +8,8 @@ public interface Calculatrice extends Remote {
     double sub(double a, double b) throws RemoteException;
     double mul(double a, double b) throws RemoteException;
     double div(double a, double b) throws RemoteException;
+    
+    // Méthodes de callback pour la Séance 3
+    void subscribe(NotificationListener listener) throws RemoteException;
+    void unsubscribe(NotificationListener listener) throws RemoteException;
 }
