@@ -4,3 +4,12 @@ Dépôt contenant les différentes implémentations pratiques du semestre (Socke
 
 ## Structure du projet
 - `/socket` : Séance 1 - Sockets TCP (Service d'écho et mini-calculatrice distante).
+
+# Module /socket - Séance 1
+
+## Instructions d'exécution
+
+### Service de Calculatrice Distante
+1. Lancer le serveur :
+   ```bash
+   java socket.CalcServer
